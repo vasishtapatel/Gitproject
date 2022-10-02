@@ -9,7 +9,7 @@ public class Bank_details {
 
 		
 		
-//		Account beyonce = new Account("Beyonce", "B00002");
+
 		customerAccount1.showMenu();
 		
 		
